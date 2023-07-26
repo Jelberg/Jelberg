@@ -2,9 +2,8 @@
 I'm a Software Engineer 👾  
   
 I love learning new things  
-  
 I enjoy programming 👩🏻‍💻 , I have a love/hate relationship with the Frontend 💞. And in my free time I enjoy series and books 📖  
-  
+
 
 ```javascript
 const JessicaElberg = (☕︎) => {
