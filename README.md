@@ -14,4 +14,4 @@ const JessicaElberg = (☕︎) => {
 }
 ```
 
-[![Linkedin: Jessica Elberg](https://img.shields.io/badge/-AlbertHernandez-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-elberg-224b6714b/)](https://www.linkedin.com/in/jessica-elberg-224b6714b/)
+[![Linkedin: Jessica Elberg](https://img.shields.io/badge/-JessicaElberg-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-elberg-224b6714b/)](https://www.linkedin.com/in/jessica-elberg-224b6714b/)
