@@ -10,13 +10,13 @@ const JessicaElberg = (☕︎) => {
   return ({
     pronouns: "she" | "her",
     code: [Javascript, Typescript, Python],
-    tools: [React, Redux, Node, Docker, Flask],
+    tools: [React JS, React Native, Redux, Next JS, Node JS, Docker, Flask],
     mood: ☕︎.drink ? happy : killer
   })
 }
 ```
   
 
-📨 mail: thejessidev@gmail.com
+📨 mail: ijessidev@gmail.com
 
 [![Linkedin: Jessica Elberg](https://img.shields.io/badge/-JessicaElberg-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-elberg-224b6714b/)](https://www.linkedin.com/in/jessica-elberg-224b6714b/)
